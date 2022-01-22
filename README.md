@@ -1,3 +1,3 @@
 # hw..
-https://sksowrab.github.io/hw../
+https://sksowrab.github.io/hw../admin.html
 
